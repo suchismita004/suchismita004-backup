@@ -45,14 +45,17 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=suchismita004&show_icons=true&hide_border=true" />
+  <img align="left" alt="suchismita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=suchismita004&show_icons=true&hide_border=true" />
+ 
+ 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=suchismita004&theme=tokyonight" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="suchi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchismita004" />
+<img align="left" alt="suchismita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchismita004" />
 
 </details>
 
