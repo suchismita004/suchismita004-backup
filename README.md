@@ -2,10 +2,10 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=suchismita004&repo=suchismita004&countColorcountColor)
 ### Hello World, I'm Suchismita 👋 aka SHUCHI ⭐:
 
-<img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/master/code suchismita gif.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
 
 ## I'm a Daughter, Student, Developer, Ambassador, and Mentor!!
-- ✍ You can find my achievements here [website]
+- ✍ You can find my achievements here 
 - 🔭 I’m currently working on my course.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on open source
@@ -16,7 +16,7 @@
 
 ### Talk with me, I am kinda awesome 🙂 :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="holisitc_developer | LinkedIn" width="80px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][linkedin]
 
 <br />
 
@@ -60,8 +60,6 @@
 </details>
 
 
-   
-[website]: https://linktr.ee/_Suchismita_
-[youtube]: 
-[instagram]: 
-[linkedin]: https://www.linkedin.com/in/suchismita-b-2a2293215
+[linkedin]: https://www.linkedin.com/in/suchismita-b-2a2293215   
+ 
+
